@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&display=swap");
+.profile {
+  width: 230px;
+  height: 320px;
+  border-radius: 20px;
+  margin-top: 12px;
+  margin-left: 371px;
+  box-shadow: -1px 1px 31px 4px rgba(25, 24, 24, 0.77);
+  -webkit-box-shadow: -1px 1px 31px 4px rgba(25, 24, 24, 0.77);
+  -moz-box-shadow: -1px 1px 31px 4px rgba(25, 24, 24, 0.77);
+}
+.cardBody {
+  width: 300px;
+  margin-top: 0px;
+  /* height: 131px !important; */
+  margin-left: -344px;
+  font-size: 22px;
+  font-weight: 400;
+  font-family: "PT Serif", serif;
+  color: rgb(255, 255, 255);
+}
+.icon_red {
+  color: red;
+}
+.but_1 {
+  margin-left: -150px;
+}
+.but_2 {
+  margin-right: -350px;
+}
+.title {
+  background-color: red;
+  text-align: center;
+  border-radius: 50px;
+  width: 150px;
+}
+.text_head1 {
+  text-decoration: underline;
+  color: rgb(235, 243, 242);
+}
