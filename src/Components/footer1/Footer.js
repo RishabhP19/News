@@ -4,77 +4,77 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <>
-      <footer class="footer">
-        <div class="container">
-          <div class="row">
-            <div class="footer-col">
+      <footer className="footer">
+        <div className="container">
+          <div className="row">
+            <div className="footer-col">
               <h4>company</h4>
               <ul>
                 <li>
-                  <div href="#">about us</div>
+                  <div className="anc">about us</div>
                 </li>
                 <li>
-                  <div href="#">our services</div>
+                  <div className="anc">our services</div>
                 </li>
                 <li>
-                  <div href="#">privacy policy</div>
+                  <div className="anc">privacy policy</div>
                 </li>
                 <li>
-                  <div href="#">affiliate program</div>
+                  <div className="anc">affiliate program</div>
                 </li>
               </ul>
             </div>
-            <div class="footer-col">
+            <div className="footer-col">
               <h4>get help</h4>
               <ul>
                 <li>
-                  <div href="#">FAQ</div>
+                  <div className="anc">FAQ</div>
                 </li>
                 <li>
-                  <div href="#">shipping</div>
+                  <div className="anc">shipping</div>
                 </li>
                 <li>
-                  <div href="#">returns</div>
+                  <div className="anc">returns</div>
                 </li>
                 <li>
-                  <div href="#">order status</div>
+                  <div className="anc">order status</div>
                 </li>
                 <li>
-                  <div href="#">payment options</div>
+                  <div className="anc">payment options</div>
                 </li>
               </ul>
             </div>
-            <div class="footer-col">
+            <div className="footer-col">
               <h4>online shop</h4>
               <ul>
                 <li>
-                  <div href="#">watch</div>
+                  <div className="anc">watch</div>
                 </li>
                 <li>
-                  <div href="#">bag</div>
+                  <div className="anc">bag</div>
                 </li>
                 <li>
-                  <div href="#">shoes</div>
+                  <div className="anc">shoes</div>
                 </li>
                 <li>
-                  <div href="#">dress</div>
+                  <div className="anc">dress</div>
                 </li>
               </ul>
             </div>
-            <div class="footer-col">
+            <div className="footer-col">
               <h4>follow us</h4>
-              <div class="social-links">
-                <div href="#">
-                  <i class="fab fa-facebook-f"></i>
+              <div className="social-links">
+                <div className="anc1">
+                  <i className="fab fa-facebook-f"></i>
                 </div>
-                <div href="#">
-                  <i class="fab fa-twitter"></i>
+                <div className="anc1">
+                  <i className="fab fa-twitter"></i>
                 </div>
-                <div href="#">
-                  <i class="fab fa-instagram"></i>
+                <div className="anc1">
+                  <i className="fab fa-instagram"></i>
                 </div>
-                <div href="#">
-                  <i class="fab fa-linkedin-in"></i>
+                <div className="anc1">
+                  <i className="fab fa-linkedin-in"></i>
                 </div>
               </div>
             </div>

@@ -79,3 +79,14 @@
   text-decoration: none;
   color: rgb(235, 243, 242);
 }
+@media only screen and (max-width: 600px) {
+  .img2 {
+    width: 400px;
+  }
+  .headline {
+    width: 400px;
+  }
+  .spin {
+    margin-left: 165px;
+  }
+}

@@ -32,7 +32,7 @@ const HeadCard = (props) => {
                   {props.source}
                 </span>
                 <p className="card-text">{props.title}</p>
-                <p className="card-text">{props.desc}</p>
+
                 <p className="card-text">
                   <small className=" text_head1">
                     By- {props.author}, Published At-

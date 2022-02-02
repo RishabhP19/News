@@ -38,3 +38,22 @@
   text-decoration: underline;
   color: rgb(235, 243, 242);
 }
+@media only screen and (max-width: 600px) {
+  .profile {
+    margin-top: 25px;
+    margin-right: 227px;
+    margin-left: -97px;
+  }
+  .cardBody {
+    margin-top: -372px;
+    margin-left: -263px !important;
+    font-size: 17px;
+    width: 170px;
+  }
+  .but_1 {
+    margin-left: -286px;
+  }
+  .but_2 {
+    margin-right: 60px;
+  }
+}
