@@ -14,8 +14,8 @@ const NewsItems = (props) => {
           }}
         >
           <span className="badge rounded-pill bg-danger mx-2 my-1">
-            {" "}
-            {source}{" "}
+            
+            {source}
           </span>
         </div>
         <img
