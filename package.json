@@ -1,6 +1,8 @@
 {
-  "engines": { "node": "^16.14.0",
-    "npm": "^8.3.1"}, 
+  "engines": {
+    "node": "^16.14.0",
+    "npm": "^8.3.1"
+  },
   "name": "task-1-sap",
   "version": "0.1.0",
   "private": true,
@@ -42,5 +44,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1"
   }
 }
